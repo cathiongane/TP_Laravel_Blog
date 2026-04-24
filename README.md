@@ -259,7 +259,7 @@ FILESYSTEM_DISK=public
 
 ## Auteur
 
-Projet développé par Coumba et Diorobo — étudiant en cybersécurité & développement web.
+Projet développé par Coumba et Diorobo — étudiantes en cybersécurité & développement web.
 Institut Polytechnique Panafricain · Dakar, Sénégal.
 
 ---
